@@ -11,7 +11,6 @@ PathAI is an intelligent career guidance platform built with Next.js 14 and inte
 - 🎯 **Job Match Insights**: Coming soon.
 - 🎤 **Interview Preparation**: AI-generated technical and behavioral questions with assessments and performance charts.
 - 📊 **Industry Insights**: Weekly Gemini-generated market trends, salaries, and top skills per industry.
-- 🔊 **Voice Support**: (Experimental) Voice-controlled interactions using Picovoice.
 - ☁️ **Persistent User Data**: Auth via Clerk, data storage with Prisma & PostgreSQL.
 
 ---
@@ -23,7 +22,7 @@ PathAI is an intelligent career guidance platform built with Next.js 14 and inte
 | **Frontend**       | Next.js 14 (App Router), React, Tailwind CSS        |
 | **Authentication** | Clerk.dev                                           |
 | **AI Services**    | Google Generative AI (Gemini 1.5 Flash)             |
-| **Voice Engine**   | Picovoice                                           |
+|    |                                           |
 | **Database**       | PostgreSQL (Neon.tech) via Prisma ORM               |
 | **Background Jobs**| Inngest (cron + Gemini insights)                    |
 | **UI Components**  | shadcn/ui, lucide-react                             |
