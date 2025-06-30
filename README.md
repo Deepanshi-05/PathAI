@@ -1,5 +1,8 @@
 # PathAI: AI-Powered Career Coach 🚀
 
+[![Live Site](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel)](https://path-ai-31u1.vercel.app/)
+
+
 PathAI is an intelligent career guidance platform built with Next.js 14 and integrated with Google Gemini AI. It helps users boost their career potential through real-time resume building, cover letter generation, job matching, and interview preparation tools — all powered by modern AI.
 
 ---
@@ -11,7 +14,6 @@ PathAI is an intelligent career guidance platform built with Next.js 14 and inte
 - 🎯 **Job Match Insights**: Coming soon.
 - 🎤 **Interview Preparation**: AI-generated technical and behavioral questions with assessments and performance charts.
 - 📊 **Industry Insights**: Weekly Gemini-generated market trends, salaries, and top skills per industry.
-- 🔊 **Voice Support**: (Experimental) Voice-controlled interactions using Picovoice.
 - ☁️ **Persistent User Data**: Auth via Clerk, data storage with Prisma & PostgreSQL.
 
 ---
